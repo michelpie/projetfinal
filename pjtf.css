@@ -1,0 +1,60 @@
+.cc-navbar{
+    
+    font-family: 'Merriweather',serif;
+    box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.55);
+    
+}
+
+.merriweather{
+    font-family: 'Merriweather',serif;
+}
+
+
+
+.banner{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    
+}
+
+.btn-order{
+    color: var(--bs-teal);
+    border-color: var(--bs-teal);
+    transition: 0.55;
+}
+.btn-order:hover,
+.btn-order:active{
+    color: gainsboro;
+    background-color: var(--bs-teal);
+}
+.im{
+    background-image: url("/projetfinal/tables-2181979_1280.jpg");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    
+}
+
+.ima{
+    background-image: url("/projetfinal/home-7860109_1280.jpg");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    
+}
+.op{
+    background-image: url("/projetfinal/home-7860109_1280.jpg");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.order-form{
+    background-image: url("/projetfinal/home-7860109_1280.jpg");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
